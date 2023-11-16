@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeworkNine</string>
+    <string name="all">All</string>
+    <string name="party">🎉\u00A0\u00A0 Party</string>
+    <string name="camping">🏕️\u00A0\u00A0 Camping</string>
+    <string name="business">👔\u00A0\u00A0 Business</string>
+    <string name="sports">🏅\u00A0\u00A0 Sports</string>
+    <string name="winter">☃️\u00A0\u00A0 Winter</string>
+    <string name="belt_suit_blazer">Belt suit blazer</string>
+    <string name="dollar_sign">$</string>
+</resources>
